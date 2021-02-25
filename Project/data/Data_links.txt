@@ -1,0 +1,8 @@
+
+Original Data source: https://figshare.com/articles/brain_tumour_dataset/1512427
+
+Link for the datasets
+Original Data
+ https://drive.google.com/drive/folders/1q3_9SgW8VqUEijLaEDrGj90QE_SUnnU_?usp=sharing 
+Preprocessed Data
+https://drive.google.com/file/d/1X96IRHzIEm6ICd9YY-09y77-SfxOfl03/view?usp=sharing 

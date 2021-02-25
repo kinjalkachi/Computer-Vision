@@ -1,0 +1,3 @@
+Please pass the image from the command line while running the code.
+The image are in the data folder
+

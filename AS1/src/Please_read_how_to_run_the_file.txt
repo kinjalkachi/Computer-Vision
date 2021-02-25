@@ -1,0 +1,3 @@
+Use the below command in the command prompt to run the file:
+
+python Assignment1_CV_Kinjal_Kachi.py ../data/sunflower.jpg 
